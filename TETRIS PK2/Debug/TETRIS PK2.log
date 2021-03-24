@@ -1,0 +1,9 @@
+﻿  Main.c
+c:\users\dorian\desktop\tetris pk2\tetris pk2\main.c(19): warning C4244: "funkcja": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\dorian\desktop\tetris pk2\tetris pk2\main.c(24): warning C4087: "clock": zadeklarowano z listą parametrów "void"
+c:\users\dorian\desktop\tetris pk2\tetris pk2\main.c(69): warning C4087: "clock": zadeklarowano z listą parametrów "void"
+  Tetris.c
+c:\users\dorian\desktop\tetris pk2\tetris pk2\tetris.c(17): warning C4101: "m": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\dorian\desktop\tetris pk2\tetris pk2\tetris.c(25): warning C4101: "test": lokalna zmienna, do której nie istnieje odwołanie
+  Generowanie kodu...
+  TETRIS PK2.vcxproj -> C:\Users\Dorian\Desktop\TETRIS PK2\Debug\TETRIS PK2.exe
